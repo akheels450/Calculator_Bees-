@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1765114136 source:d:\a.a.s\programming projects\project c++\calculator c++\calculator.cpp
+	"Calculator.h"
+
+1765292742 d:\a.a.s\programming projects\project c++\calculator c++\include\calculator.h
+	<iostream>
+	<stdexcept>
+
+1765293715 source:d:\a.a.s\programming projects\project c++\calculator c++\main.cpp
+	<Calculator.h>
+
